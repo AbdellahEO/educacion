@@ -17,7 +17,7 @@ Se puede realizar de las siguientes maneras:
 1. Copiar la dirección del repositorio "SSH o HTTPS" desde la lista de archivos (Code).
 1. Desde una  línea de comando o Git Bash situando sobre el directorio raíz, ejecutar  el comando  git clone seguido de la URL.
 
--	$ cd (Ruta al directorio)	
+-	$  (Ruta al directorio)	
 -	$ Git clone https://github.com/usuario/Nombre_de_repositorio.git
 
 
@@ -61,7 +61,7 @@ Plugin de inicio de sesión está diseñado para proporcionar una forma de prote
 Permite  tanto iniciar sesión como registro de usuarios utilizando  la ayuda de los plugins de **correo electrónico** y **formulario**.
 
 - **Correo electrónico** sirve para  recuperar una contraseña por correo electrónico en caso de que el usuario no recuerda dicha contraseña.
--**formulario** para generar los formularios necesarios.
+- **formulario** para generar los formularios necesarios.
 
 ### Instalación :
 1.  Abre un Terminal o GIT BASH  y navega a la carpeta de tu directorio raíz.

@@ -23,6 +23,7 @@ user/data/*
 !user/data/.*
 user/plugins/*
 !user/plugins/login
+!user/plugins/add-page-by-form
 #/user/themes/*
 !user/themes/learn2
 user/localhost/config/security.yaml

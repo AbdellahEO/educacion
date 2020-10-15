@@ -1,4 +1,6 @@
 ---
+access:
+   site.login: true
 title: 'Nuevo Curso'
 published: true
 routable: true
@@ -7,7 +9,7 @@ template: form
 admin:
     children_display_order: collection
 pageconfig:
-    parent: /
+    parent: /Cursos
 pagefrontmatter:
     visible: true
     status: draft
@@ -48,7 +50,7 @@ form:
     buttons:
         -
             type: submit
-            value: Submit
+            value: Crear 
     process:
         -
             addpage: null
